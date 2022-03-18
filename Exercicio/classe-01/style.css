@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 50px;
+  background-color: burlywood;
+}
+
+header > img {
+  border-radius: 10px;
+}
+
+p, ul{
+  margin-bottom: 100px;
+}
